@@ -1,2 +1,2 @@
-module go.mod;
+module go.mod
 go 1.22
